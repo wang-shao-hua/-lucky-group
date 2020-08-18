@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
      <p>这是wsh修改的一个记录</p>
+     <span>这是又一次修改记录！</span>
   </div>
 </template>
 
