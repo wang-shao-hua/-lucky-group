@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>我是组员之一</h1>
-    <P>白二慧最美！</P>
+    <h2>组长最鳖孙</h2>
   </div>
 </template>
 
@@ -10,7 +10,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      
+      msg:'白二慧'
     }
   }
 }
