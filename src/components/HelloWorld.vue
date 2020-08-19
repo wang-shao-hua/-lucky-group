@@ -14,7 +14,8 @@ export default {
     return {
       msg1: 'Welcome to Your Vue.js App',
       msg5:'王少华',
-      msg:'白二慧'
+      msg:'白二慧',
+      aa:'ddadada'
     }
   }
 }
